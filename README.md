@@ -11,4 +11,3 @@
 
 ### Contributors
 * Lead Developer: **S-Orbital**
-* Agenda & Bug Maintenance: **D4LM**
